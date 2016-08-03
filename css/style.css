@@ -3,5 +3,13 @@ body {
 }
 h1 {
   color: #fff;
+  display: block;;
+}
+.mainLogo {
+  display: inline-block;
+  width: 120px;
+}
+#logo {
+  margin: 20% 0 0 0;
   text-align: center;
 }
